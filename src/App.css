@@ -35,3 +35,25 @@
   height: 70px;
 }
 
+.add-to-cart img{
+  width: 80px;
+  right: 1%;
+  top: 1%;
+  position: absolute;
+
+}
+
+.cart-count {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 1;
+  background-color: red;
+  padding: 7px;
+  width: 20px;
+  height: 20px;
+  color: #fff;
+  border-radius: 50%;
+
+}
+
